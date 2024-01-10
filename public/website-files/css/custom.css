@@ -1,0 +1,16 @@
+.home-hero h2{
+    color: #fff;
+}
+.home-hero p{
+    color: #fff;
+}
+.hero-all-page{
+    min-height: 550px;
+}
+.join-us{
+    background: rgb(13, 12, 11);
+    background: -moz-linear-gradient(135deg, rgba(13, 12, 11, 0.7343312324929971) 0%, rgba(11, 12, 13, 0.7259278711484594) 57%);
+    background: -webkit-linear-gradient(135deg, rgba(13, 12, 11, 0.7343312324929971) 0%, rgba(11, 12, 13, 0.7259278711484594) 57%);
+    background: linear-gradient(135deg, rgba(13, 12, 11, 0.7343312324929971) 0%, rgba(11, 12, 13, 0.7259278711484594) 57%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0d0c0b", endColorstr="#0b0c0d", GradientType=1);
+}
